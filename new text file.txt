@@ -1,3 +1,4 @@
 This is a new text file for exercise 2 
 I really enjoy working with git
 I find the course content useful
+Hi I added this new line via GITHUB
